@@ -29,8 +29,8 @@ Here are some rendered real hetero-interpenetrated MOF structures:
 
 Sezginel, K. B., T. Feng, and C. E. Wilmer. "[Discovery of hypothetical hetero-interpenetrated MOFs with arbitrarily dissimilar topologies and unit cell shapes](http://pubs.rsc.org/en/content/articlelanding/2017/ce/c7ce00290d)." CrystEngComm 19.31 (2017): 4497-4504. DOI: 10.1039/c7ce00290d
 
-[Fig1]: https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/candidate-interpenetrated-mofs.PNG "Candidate Images"
-[Fig2]: https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/candidate-pair-selection.PNG "Candidate Selection"
-[Fig3]: https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/real-hetero-interpenetrated-mofs.PNG "Real Interpenetrated MOFs"
+[Fig1]: https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/img/candidate-interpenetrated-mofs.PNG "Candidate Images"
+[Fig2]: https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/img/candidate-pair-selection.PNG "Candidate Selection"
+[Fig3]: https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/img/real-hetero-interpenetrated-mofs.PNG "Real Interpenetrated MOFs"
 [IPMOf-ref]: https://github.com/kbsezginel/IPMOF/
 [CORE-ref]: http://pubs.acs.org/doi/abs/10.1021/cm502594j

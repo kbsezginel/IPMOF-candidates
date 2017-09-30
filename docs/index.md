@@ -8,13 +8,13 @@ IPMOF Candidates
 
 ### Candidate interpenetrating MOFs
 
-<p align="center"><img src="https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/candidate-interpenetrated-mofs.PNG"></p>
+<p align="center"><img src="https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/img/candidate-interpenetrated-mofs.PNG"></p>
 
 Here candiate interpenetrating structures discovered by running [IPMOF][IPMOF-ref] algorithm on [CoRE MOF database][CORE-ref] are provided. The cif files are separated in four groups as shown below:
 
 #### Candidate Selection
 
-<p align="center"><img src="https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/candidate-pair-selection.PNG"></p>
+<p align="center"><img src="https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/img/candidate-pair-selection.PNG"></p>
 
 -   Group 1: Hetero-interpenetarting candidates
 -   Group 2: Hetero-interpenetrating duplicate structures (degenerate structures of group 1)
@@ -29,7 +29,7 @@ how this kind of coupling effects molecular properties.
 
 Here are some rendered real hetero-interpenetrated MOF structures:
 
-<p align="center"><img src="https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/real-hetero-interpenetrated-mofs.PNG"></p>
+<p align="center"><img src="https://github.com/kbsezginel/IPMOF-candidates/blob/master/docs/img/real-hetero-interpenetrated-mofs.PNG"></p>
 
 #### Reference
 
