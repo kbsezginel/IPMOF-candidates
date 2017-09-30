@@ -1,4 +1,10 @@
-# IPMOF-candidates
+---
+layout: default
+title:  "IPMOF Candidates"
+date:   2017-09-29
+---
+IPMOF Candidates
+================
 
 ### Candidate interpenetrating MOFs
 
